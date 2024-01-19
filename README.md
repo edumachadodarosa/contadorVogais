@@ -2,6 +2,10 @@
 # Contador de Vogais - Aplicação Web
 
 
+
+https://github.com/edumachadodarosa/contadorVogais/assets/145352273/a1508153-6a64-42f1-8810-fd58aa1bd48d
+
+
 Este é um projeto de uma aplicação web simples que conta o número de vogais em um texto fornecido pelo usuário. A aplicação inclui uma interface de usuário com uma área de texto para entrada, um botão para acionar a contagem de vogais e uma área de saída para exibir os resultados.
 
 
