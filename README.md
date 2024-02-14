@@ -11,16 +11,16 @@ Este é um projeto de uma aplicação web simples que conta o número de vogais 
 
 
 
-## Pré-requisitos
+## Pré-requisitos:
 Navegador web (Chrome, Firefox, Safari, etc.)
 
 
-## Instalação
+## Instalação:
 
 Clone o repositório.
 Abra a pasta do projeto em seu editor de código preferido.
 
-## Como usar
+## Como usar:
 
 Abra o arquivo index.html em um navegador web.
 
@@ -30,7 +30,7 @@ Clique no botão "Calcular vogais" para calcular o número de vogais.
 
 Visualize os resultados na área de saída abaixo do botão.
 
-## Recursos
+## Recursos:
 
 Design responsivo para vários tamanhos de tela.
 Interface estilizada e amigável ao usuário.
@@ -38,7 +38,7 @@ Conta e exibe o número de vogais no texto inserido.
 Fornece uma mensagem se nenhum texto for inserido.
 
 
-## Contribuição
+## Contribuição:
 Se você gostaria de contribuir para este projeto, siga estes passos:
 
 Faça um fork do repositório.<br>
